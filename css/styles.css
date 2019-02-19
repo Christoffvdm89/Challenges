@@ -1,0 +1,24 @@
+body {
+  background-color: aqua
+
+}
+
+h1 {
+ 
+color: yellowgreen
+
+}
+
+h4{
+
+  color: red
+}
+
+p{
+  font-size: 12px; color: blue
+}
+
+.resimage img{
+  max-width: 100%;
+max-height: 100%;
+}
