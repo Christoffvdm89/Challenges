@@ -1,0 +1,27 @@
+
+
+body{
+    font-family: 'Architects Daughter';font-size: 22px;
+    background-color: lightgray
+}
+
+.firstimage{
+    float: left;
+    width:30%;
+}
+
+h1{
+    float: right;
+    width:60%;
+    
+}
+
+h3{
+    /* clear: both; */
+    float: right;
+    width:80%;
+}
+
+
+
+
