@@ -13,11 +13,9 @@ body{
 
 .firstimage{
     float: left;
-    width:25%;
+    width:27%;
     height: 15%;
-    margin-left:2%;
-    margin-top: 3%;
-
+    margin: 0.5%;
 }
 
 
@@ -25,10 +23,8 @@ body{
 #h1{
     float: right;
     width:70%;
+    margin: 6px;
     font-size: 70px;
-    margin-top: 2%;
-
-
     
     
 }
@@ -56,28 +52,16 @@ section{
 #nav1{
     float: right;
     width: 70%;
-    margin-right: 1%
     
 
-}
-
-#break1{
-    width: 
 }
 
 .introduction{
-    font-size:24px;
+    font-size:25px;
     float: right;
     width:70%;
-    margin-right: 1%;
-    
     
 }
-
-    
-   
-
-
 
 
 
@@ -86,7 +70,7 @@ section{
     width:25%;
     border-style: solid;
     border-size: 1px;
-    background-color:#EDC9BB;
+    background-color:yellow;
     margin-left: 2%;
 }
 
@@ -99,7 +83,7 @@ section{
   width: 70%;
   border-style: solid;
   border-size: 1px;
-  background-color:#D6605E;
+  background-color:rgb(238,130,238);
   font-size: 22px;   
   column-count: 2;
   margin-right:2%;
@@ -110,7 +94,6 @@ section{
 .finalimages{
     clear:both;
     display: flex;
-    
 }
 
 #image2{
